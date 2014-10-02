@@ -83,6 +83,8 @@
     <IpRange Subnet="191.238.32.0/19" />
     <IpRange Subnet="191.237.0.0/19" />
     <IpRange Subnet="191.237.32.0/28" />
+    <IpRange Subnet="191.237.32.32/27" />
+    <IpRange Subnet="191.237.32.64/28" />
     <IpRange Subnet="191.237.33.0/24" />
   </Region>
   <Region Name="useast2">
