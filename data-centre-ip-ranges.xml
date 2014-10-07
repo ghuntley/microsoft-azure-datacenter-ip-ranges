@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AzurePublicIpAddresses xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Region Name="europewest">
-    <IpRange Subnet="157.55.9.112/28" />
-    <IpRange Subnet="157.55.10.0/26" />
     <IpRange Subnet="65.52.128.0/19" />
     <IpRange Subnet="94.245.97.0/24" />
     <IpRange Subnet="137.116.192.0/19" />
