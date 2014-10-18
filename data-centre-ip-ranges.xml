@@ -152,6 +152,7 @@
   <Region Name="usnorth">
     <IpRange Subnet="23.98.54.0/24" />
     <IpRange Subnet="23.100.72.0/21" />
+    <IpRange Subnet="23.100.224.0/20" />
     <IpRange Subnet="65.52.0.0/19" />
     <IpRange Subnet="65.52.48.0/20" />
     <IpRange Subnet="65.52.106.16/28" />
@@ -199,7 +200,6 @@
     <IpRange Subnet="207.46.203.192/27" />
     <IpRange Subnet="207.46.204.0/22" />
     <IpRange Subnet="209.240.220.0/23" />
-    <IpRange Subnet="23.100.224.0/20" />
     <IpRange Subnet="23.96.128.0/17" />
     <IpRange Subnet="23.98.48.0/25" />
     <IpRange Subnet="23.98.48.128/27" />
@@ -435,8 +435,9 @@
     <IpRange Subnet="191.237.236.0/24" />
     <IpRange Subnet="191.238.80.0/20" />
     <IpRange Subnet="104.46.224.0/20" />
-    <IpRange Subnet="191.238.68.0/27" />
-    <IpRange Subnet="191.238.68.32/28" />
+    <IpRange Subnet="191.238.68.0/26" />
+    <IpRange Subnet="191.238.69.0/24" />
+    <IpRange Subnet="191.239.96.0/19" />
   </Region>
   <Region Name="japaneast">
     <IpRange Subnet="23.98.57.0/25" />
