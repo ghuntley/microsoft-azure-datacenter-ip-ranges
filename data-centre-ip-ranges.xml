@@ -22,6 +22,8 @@
     <IpRange Subnet="23.101.64.0/20" />
     <IpRange Subnet="104.40.128.0/18" />
     <IpRange Subnet="104.40.192.0/19" />
+    <IpRange Subnet="104.45.0.0/18" />
+    <IpRange Subnet="104.45.64.0/20" />
     <IpRange Subnet="104.46.32.0/19" />
     <IpRange Subnet="137.117.128.0/17" />
     <IpRange Subnet="168.61.56.0/21" />
@@ -32,12 +34,13 @@
     <IpRange Subnet="191.237.233.0/24" />
     <IpRange Subnet="191.237.234.0/23" />
     <IpRange Subnet="191.239.200.0/23" />
+    <IpRange Subnet="191.239.203.0/27" />
     <IpRange Subnet="193.149.84.0/22" />
-    <IpRange Subnet="104.45.0.0/20" />
-    <IpRange Subnet="104.45.16.0/20" />
-    <IpRange Subnet="104.45.32.0/20" />
-    <IpRange Subnet="104.45.48.0/20" />
-    <IpRange Subnet="104.45.64.0/20" />
+    <IpRange Subnet="104.47.128.0/28" />
+    <IpRange Subnet="104.47.129.0/24" />
+    <IpRange Subnet="104.47.136.0/21" />
+    <IpRange Subnet="104.47.144.0/20" />
+    <IpRange Subnet="104.47.160.0/21" />
   </Region>
   <Region Name="useast">
     <IpRange Subnet="23.96.0.0/18" />
@@ -271,6 +274,11 @@
     <IpRange Subnet="104.45.80.0/20" />
     <IpRange Subnet="104.45.96.0/20" />
     <IpRange Subnet="104.45.112.0/20" />
+    <IpRange Subnet="104.41.192.0/28" />
+    <IpRange Subnet="104.41.193.0/24" />
+    <IpRange Subnet="104.41.200.0/21" />
+    <IpRange Subnet="104.41.208.0/20" />
+    <IpRange Subnet="104.41.224.0/21" />
   </Region>
   <Region Name="uscentral">
     <IpRange Subnet="23.100.80.0/21" />
@@ -461,5 +469,21 @@
     <IpRange Subnet="104.41.16.0/28" />
     <IpRange Subnet="104.41.17.0/24" />
     <IpRange Subnet="191.237.248.0/21" />
+  </Region>
+  <Region Name="australiaeast">
+    <IpRange Subnet="23.101.208.0/20" />
+    <IpRange Subnet="191.238.66.0/25" />
+    <IpRange Subnet="191.238.66.128/28" />
+    <IpRange Subnet="191.238.67.0/24" />
+    <IpRange Subnet="191.239.64.0/20" />
+    <IpRange Subnet="104.46.240.0/20" />
+  </Region>
+  <Region Name="australiasoutheast">
+    <IpRange Subnet="23.101.224.0/20" />
+    <IpRange Subnet="191.239.160.0/20" />
+    <IpRange Subnet="191.239.192.0/25" />
+    <IpRange Subnet="191.239.192.128/28" />
+    <IpRange Subnet="191.239.193.0/24" />
+    <IpRange Subnet="23.101.240.0/20" />
   </Region>
 </AzurePublicIpAddresses>
