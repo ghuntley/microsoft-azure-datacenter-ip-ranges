@@ -361,15 +361,7 @@
     <IpRange Subnet="111.221.96.0/20" />
     <IpRange Subnet="137.116.128.0/19" />
     <IpRange Subnet="138.91.32.0/20" />
-    <IpRange Subnet="168.63.160.0/23" />
-    <IpRange Subnet="168.63.162.0/24" />
-    <IpRange Subnet="168.63.163.0/28" />
-    <IpRange Subnet="168.63.163.48/28" />
-    <IpRange Subnet="168.63.163.64/26" />
-    <IpRange Subnet="168.63.163.128/25" />
-    <IpRange Subnet="168.63.164.0/22" />
-    <IpRange Subnet="168.63.168.0/21" />
-    <IpRange Subnet="168.63.176.0/20" />
+    <IpRange Subnet="168.63.160.0/19" />
     <IpRange Subnet="168.63.224.0/19" />
     <IpRange Subnet="207.46.48.0/21" />
     <IpRange Subnet="207.46.56.0/24" />
